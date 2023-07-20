@@ -7,59 +7,102 @@ Just one problem. Aerogel in the form I need it to be in for my current developm
 The following research paper is a product of that decision to make the Aerogel myself so as to provide others a means to make it themselves as well.
 
 ## Table of contents:
-Title: Synthesis and Characterization of Aerogel: A Comprehensive Research Paper
+1. Introduction
 
-Abstract:
-Aerogels are fascinating materials known for their exceptional properties, such as low density, high porosity, and excellent thermal insulation. This research paper provides a comprehensive overview of the synthesis and characterization techniques employed in the creation of aerogels. We explore the various precursor materials, sol-gel processes, drying methods, and characterization techniques that contribute to the successful fabrication and characterization of aerogel. The paper aims to serve as a comprehensive resource for researchers and scientists interested in the production of aerogels and understanding their unique properties.
-
-	1. Introduction
 1.1 Background and Significance
+
 1.2 Objectives of the Research Paper
-	2.	Aerogel Synthesis Techniques
+
+2.Aerogel Synthesis Techniques
+
 2.1 Sol-Gel Process
+
 2.1.1 Precursor Materials
+
 2.1.2 Sol Formation
+
 2.1.3 Gelation
+
 2.2 Supercritical Drying
+
 2.2.1 Supercritical Fluids
+
 2.2.2 Drying Techniques
+
 2.3 Ambient Pressure Drying
+
 2.3.1 Freeze Drying
+
 2.3.2 Critical Point Drying
-	3.	Precursor Materials for Aerogel Synthesis
+
+3. Precursor Materials for Aerogel Synthesis
+
 3.1 Silica-Based Aerogels
+
 3.2 Carbon-Based Aerogels
+
 3.3 Metal Oxide-Based Aerogels
+
 3.4 Polymer-Based Aerogels
-	4.	Sol-Gel Process Optimization
+
+4. Sol-Gel Process Optimization
+
 4.1 Sol Preparation
+
 4.2 Gelation Control
+
 4.3 Aging and Densification
+
 4.4 Catalysts and Additives
-	5.	Drying Techniques
+
+5. Drying Techniques
+
 5.1 Supercritical Drying Methods
+
 5.2 Ambient Pressure Drying Methods
+
 5.3 Hybrid Drying Techniques
-	6.	Characterization of Aerogels
+
+6. Characterization of Aerogels
+
 6.1 Morphology and Pore Structure Analysis
+
 6.2 Density and Porosity Determination
+
 6.3 Thermal Conductivity Measurement
+
 6.4 Mechanical Properties Analysis
+
 6.5 Surface Area and Adsorption Analysis
+
 6.6 Spectroscopic Techniques for Chemical Analysis
-	7.	Applications of Aerogels
+
+7. Applications of Aerogels
+
 7.1 Thermal Insulation
+
 7.2 Energy Storage
+
 7.3 Environmental Remediation
+
 7.4 Aerospace and Automotive Industries
+
 7.5 Biomedical and Pharmaceutical Applications
-	8.	Challenges and Future Perspectives
+
+8. Challenges and Future Perspectives
+
 8.1 Current Challenges in Aerogel Synthesis
+
 8.2 Emerging Research Directions
+
 8.3 Innovations and Technological Advances
-	9.	Conclusion
+
+9. Conclusion
+
 9.1 Summary of Key Findings
+
 9.2 Implications and Potential Impact
+
 9.3 Areas for Future Research
 
 
