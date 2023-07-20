@@ -298,3 +298,16 @@ Aerogels continue to captivate researchers and scientists due to their exception
 
 This concludes the research paper. If you have any further questions or if there’s anything else I can assist you with, please let me know.
 
+## Final Notes
+
+Some of you may be asking why, why are you making Aerogel? And that would be a very valid question with an interesting answer. 
+
+I am working on a new development to go along with the SMPP (Sustainable Mobile Power Pack). The new project (HabiPack) [Patent Pending] is a form of ultra insulated, lightwieght pop up shelter that is livable long or short term in temperatures at extreme lows such as 30-50 below zero. 
+
+I wanted to make the HabiPack (As it has lovingly been coined) as lightwieght but insulating as possible and of one of 4 included insulating materials used within the habipack, aerogel was the best suited to those two atributes. Its both lightwieght, and incredibly insulating when created using the silica based method. 
+
+For the Habipack to become a reality I would need Aerogel in the form of flexible fabric. Or flexible sheeting to fit within the lining of the Habipack. The interior is lined with mylar, the exterior with fire retardant material, and between the aerogel layer and mylar is a patent pending air membrane that keeps the wieght of the Habipack to a minimum but also acts as an effective fourth layer of insulation. 
+
+The Habipack protoype is being designed and built in the above described manner. HabiPack design is subject to change as it is field tested and new data is disclosed. 
+
+The same donation model intended to be incorporated for the SMPP is intended to ge structured for the HabiPack. When HabiPack is ready for general production, for every 3 sold, one is donated to a family or individual in need to combat homelessness.  
