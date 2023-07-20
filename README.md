@@ -4,7 +4,7 @@ A research paper by Adam Rivers
 ## Precursor: One of my projects I am developing requires Aerogel 
 Just one problem. Aerogel in the form I need it to be in for my current development on this project can cost upwards of hundreds upon thousands of dollars for a single sheet. So, I decided to make it myself.
 
-The following research paper is a product of that decision to make the awrogel myself so as to provide others a means to make it themselves as well.
+The following research paper is a product of that decision to make the Aerogel myself so as to provide others a means to make it themselves as well.
 
 ## Table of contents:
 Title: Synthesis and Characterization of Aerogel: A Comprehensive Research Paper
